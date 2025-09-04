@@ -1,5 +1,9 @@
 # Small Business Loan Default Prediction
 
+<p align="center">
+   <img width=800 alt="SBA Loan Prediction" src="https://github.com/user-attachments/assets/90fa72c2-1844-4e59-8a61-ee498ddfe237" />
+</p>
+
 ## Project Overview
 This project is focused on predicting whether a small business in the United States will default on an SBA (Small Business Administration) loan. Given the critical role of small businesses in job creation and economic growth, accurate loan default prediction can help financial institutions make informed lending decisions, mitigate risks, and support business sustainability.
 
